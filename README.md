@@ -28,10 +28,6 @@ Le but du jeu est de deviner un nombre aléatoire généré par l'ordinateur en 
    - Clonez ou téléchargez le projet.
    - Compilez et exécutez le fichier principal du jeu (généralement `Main.java`).
 
-### Exemple de commande pour exécuter le projet avec JavaFX :
-```bash
-java --module-path /chemin/vers/javafx-sdk/lib --add-modules javafx.controls,javafx.fxml -jar devine-le-nombre.jar
-```
 
 ---
 
